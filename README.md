@@ -54,10 +54,19 @@ npm run dev
 ```
 src/
 ├── assets/          # Images and static assets
+│   ├── components.png
+│   ├── config.png
+│   ├── jsx-ui.png
+│   ├── react-core-concepts.png
+│   └── state-mgmt.png
 ├── components/      # React components
 │   ├── Header/      # Header component with styles
+│   ├── CoreConcept.jsx
 │   ├── CoreConcepts.jsx
-│   └── TabButton.jsx
+│   ├── Examples.jsx
+│   ├── Section.jsx
+│   ├── TabButton.jsx
+│   └── Tabs.jsx
 ├── App.jsx          # Main application component
 ├── data.js          # Application data and examples
 ├── index.css        # Global styles
@@ -79,4 +88,5 @@ This project helps you understand:
 - Event handling in React
 - Conditional rendering
 - Props passing and destructuring
+- Component wrapper patterns
 - Modern React development workflow
