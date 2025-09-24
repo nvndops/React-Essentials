@@ -1,6 +1,8 @@
 # React Essentials
 
 A React learning application that demonstrates the core concepts of React development through an interactive interface.
+![React Core Concepts](src/assets/project.png)
+
 
 ## Features
 
